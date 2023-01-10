@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Swift, SwiftUI and UIKit. ;)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: a20172501qpucp.edu.pe
+- 📫 How to reach me: a20172501@pucp.edu.pe
+
 
 <!---
 Rojisoso/Rojisoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
