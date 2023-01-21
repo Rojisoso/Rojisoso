@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rojisoso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Swift, SwiftUI and UIKit. ;)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning IA. ;)
+- 🔝 My languages: Swift, Python, C, C++, C#.
 - 📫 How to reach me: a20172501@pucp.edu.pe
 
 
